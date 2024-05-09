@@ -1,0 +1,37 @@
+body{
+  font-family: Pixelify Sans;
+  text-align: left;
+  background-color: antiquewhite;
+}
+h1{
+  border-style:dotted;
+  border-radius: 12px;
+  border-color: crimson;
+  background-color: whitesmoke;
+  font-size: 70px;
+}
+h2{
+  border-style:outset;
+  border-radius: 12px;
+  border-color: darkgoldenrod;
+  background-color: whitesmoke;
+  font-size: 50px;
+}
+.small{
+  font-size: 18px;
+}
+p{
+  font-size: 30px;
+}
+ul{
+  font-size: 30px;
+}
+.link{
+  border-style: dashed;
+  text-decoration: none;
+  border-radius: 27px;
+  font-size: 29px;
+}
+img{
+  width:600px ;
+}
